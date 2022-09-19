@@ -1,0 +1,27 @@
+final Map<String, String> enUs = {
+  'msg_network_err': 'Network Error',
+  'msg_something_went_wrong': 'Something Went Wrong!',
+  "lbl_date": "Date",
+  "lbl_access_token": "Access Token",
+  "lbl_add": "Add",
+  "lbl_project_details": "Project Details",
+  "lbl_jobs": "Jobs",
+  "msg_enter_token_her": "Enter token here",
+  "lbl_splash": "Splash",
+  "msg_check_your_app":
+      "Check your app's UI from the below demo screens of your app.",
+  "lbl_project_3": "Project 3",
+  "lbl_project_1": "Project 1",
+  "lbl_title": "Title:",
+  "lbl_message": "Message:",
+  "lbl_project_2": "Project 2",
+  "lbl_status": "Status:",
+  "msg_enter_your_acce": "Enter Your Access Token",
+  "lbl_project_list": "Project List",
+  "lbl_app_navigation": "App Navigation",
+  "lbl_commit": "Commit",
+  "msg_project_1_com": ": Commits",
+  "msg_project_1_job": ": Jobs",
+  "lbl_author": "Author:",
+  "lbl_commits": "Commits"
+};
