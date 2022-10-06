@@ -37,16 +37,15 @@ It uses <a href=="https://about.gitlab.com/"/>GitLab</a>'s API</strong>
 
 #### 1. [GitLab's API](https://docs.gitlab.com/ee/api/)
 #### 2. [Setup Flutter](https://flutter.io/setup/)
-#### 3. [Setup FlutterFire](https://firebase.flutter.dev/docs/cli/)
-#### 4. Clone the repo
+#### 3. Clone the repo
 ```sh
 $ git clone https://github.com/DhiWise/gitlab
 $ cd gitlab/
 ```
-#### 5. Setup in code
+#### 4. Setup in code
 In api_client.dart add your base URL of GitLab
   
-#### 6.[Create Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
+#### 5.[Create Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html)
 
 #### 6. ```flutter pub get ```
 
